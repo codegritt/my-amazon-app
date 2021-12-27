@@ -19,7 +19,7 @@ import { CartComponent } from './component/cart/cart.component';
     BrowserModule,
     AppRoutingModule,
     FormsModule, ReactiveFormsModule,
-    HttpClientModule 
+    HttpClientModule  
   ],
   providers: [],
   bootstrap: [AppComponent]
